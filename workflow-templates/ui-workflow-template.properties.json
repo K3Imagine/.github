@@ -1,0 +1,9 @@
+{
+    "name": "Imagine UI Build",
+    "description": "Imagine UI CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "TypeScript",
+        "JavaScript"
+    ]
+}
