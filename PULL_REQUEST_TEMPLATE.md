@@ -1,6 +1,6 @@
 ## Related Issue
 <!--- JIRA ticket link in the following format. Please make sure you replace 0 with your number -->
-[IM-0](https://k3btg.atlassian.net/browse/IM-0)
+[RS-0](https://k3btg.atlassian.net/browse/RS-0)
 
 ## Description
 <!--- Describe your changes in detail -->
